@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/morte.unity
     guid: ff632f8dc4ffcaa418642e7739089972
+  - enabled: 1
+    path: Assets/Scenes/vencer.unity
+    guid: 380711ad4d4c3574bb303df1caf68bfe
   m_configObjects: {}

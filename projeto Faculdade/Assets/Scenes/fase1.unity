@@ -658,7 +658,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rig: {fileID: 545291145}
   animAnda: {fileID: 545291149}
-  vel: 8
+  vel: 12
   Forcapulo: 1
   EstaPulando: 0
 --- !u!50 &545291145
